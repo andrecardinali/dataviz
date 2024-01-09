@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2020,4,1,113.0 B,Bezos,Jeff,Jeff Bezos,1964-01-12,56.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon,Entrepreneur,True,Decreased
+2020,4,2,98.0 B,Gates,Bill,Bill Gates,1955-10-28,64.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2020,4,3,76.0 B,Arnault,Bernard,Bernard Arnault & family,1949-03-05,71.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Remained Even
+2020,4,4,67.5 B,Buffett,Warren,Warren Buffett,1930-08-30,89.0,Male,United States,United States,Omaha,Finance & Investments,['Finance & Investments'],Berkshire Hathaway,CEO,True,Decreased
+2020,4,5,59.0 B,Ellison,Larry,Larry Ellison,1944-08-17,75.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CTO and Founder,True,Decreased
+2020,4,6,55.1 B,Ortega,Amancio,Amancio Ortega,1936-03-28,84.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Decreased
+2020,4,7,54.7 B,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,35.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Decreased
+2020,4,8,54.6 B,Walton,Jim,Jim Walton,1948-06-07,71.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2020,4,9,54.4 B,Walton,Alice,Alice Walton,1949-10-07,70.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2020,4,10,54.1 B,Walton,Rob,Rob Walton,1944-10-27,75.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Walmart,Director,False,Increased
+2020,4,11,52.7 B,Ballmer,Steve,Steve Ballmer,1956-03-24,64.0,Male,United States,United States,Hunts Point,Technology,['Technology'],Los Angeles Clippers,Owner,True,Increased
+2020,4,12,52.1 B,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,80.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],America Movil SAB de CV (ADR),Honorary Chairman,True,Decreased
+2020,4,13,50.9 B,Page,Larry,Larry Page,1973-03-26,47.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Alphabet,Entrepreneur,True,Increased
+2020,4,14,49.1 B,Brin,Sergey,Sergey Brin,1973-08-21,46.0,Male,United States,United States,Los Altos,Technology,['Technology'],Alphabet,Cofounder and board member,True,Decreased
+2020,4,15,48.9 B,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,66.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Decreased
+2020,4,16,48.0 B,Bloomberg,Michael,Michael Bloomberg,1942-02-14,78.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg L.P.,CEO,True,Decreased
+2020,4,17,38.8 B,Ma,Jack,Jack Ma,1964-09-10,55.0,Male,China,China,Hangzhou,Technology,['Technology'],Alibaba Group,Founder and Executive Chairman,True,Increased
+2020,4,18,38.2 B,Koch,Charles,Charles Koch,1935-11-01,84.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Decreased
+2020,4,18,38.2 B,Koch,Julia,Julia Koch & family,1962-04-12,57.0,Female,United States,United States,New York,Diversified,['Diversified'],,,False,
+2020,4,20,38.1 B,Ma,Huateng,Ma Huateng,1971-10-29,48.0,Male,China,China,Shenzhen,Technology,['Technology'],Tencent Holdings,Chairman and CEO,True,Decreased

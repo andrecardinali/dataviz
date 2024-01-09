@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2011,3,1,74.0 B,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,71.0,Male,Mexico,Mexico,Mexico City,,['Telecom'],,,True,Increased
+2011,3,2,56.0 B,Gates,Bill,Bill Gates,1955-10-28,55.0,Male,United States,United States,Medina,Technology,['Technology                    '],Bill & Melinda Gates Foundation,Co-Chair,True,Increased
+2011,3,3,50.0 B,Buffett,Warren,Warren Buffett,1930-08-30,80.0,Male,United States,United States,Omaha,Investments,['Investments                   '],Berkshire Hathaway,Chairman,True,Increased
+2011,3,4,41.0 B,Arnault,Bernard,Bernard Arnault,1949-03-05,62.0,Male,France,France,Paris,,['Fashion and Retail'],,,False,Increased
+2011,3,5,39.5 B,Ellison,Larry,Larry Ellison,1944-08-17,66.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CEO,True,Increased
+2011,3,6,31.1 B,Mittal,Lakshmi,Lakshmi Mittal,1950-06-15,60.0,Male,India,United Kingdom,London,,['Metals & Mining'],,,False,Increased
+2011,3,10,26.5 B,Walton,Christy,Christy Walton & family,1955-01-01,56.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail'],Children's Scholarship Fund,Co-Chair,False,Increased
+2011,3,7,31.0 B,Ortega,Amancio,Amancio Ortega,1936-03-28,75.0,Male,Spain,Spain,La Coruna,,['Fashion and Retail'],,,True,Increased
+2011,3,8,30.0 B,Batista,Eike,Eike Batista,1956-11-03,54.0,Male,Brazil,Brazil,Rio de Janeiro,,['Energy'],,,True,Increased
+2011,3,11,26.0 B,Li,Ka-shing,Li Ka-shing,1928-06-13,82.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],Hutchison Whampoa,Chairman,True,Increased
+2011,3,9,27.0 B,Ambani,Mukesh,Mukesh Ambani,1957-04-19,53.0,Male,India,India,Mumbai,,['Energy'],,,False,Decreased
+2011,3,16,23.3 B,Adelson,Sheldon,Sheldon Adelson,1933-08-04,77.0,Male,United States,United States,Las Vegas,Gaming,['Gaming'],Las Vegas Sands,Chairman and CEO,True,Increased
+2011,3,12,25.5 B,Albrecht,Karl,Karl Albrecht,1920-02-20,91.0,Male,Germany,Germany,Mulheim an der Ruhr,,['Fashion and Retail'],,,True,Increased
+2011,3,18,22.0 B,Koch,Charles,Charles Koch,1935-11-01,75.0,Male,United States,United States,Wichita,Diversified,['Diversified'],,,False,Increased
+2011,3,18,22.0 B,Koch,David,David Koch,1940-05-03,70.0,Male,United States,United States,New York,Diversified,['Diversified'],,,False,Increased
+2011,3,13,24.5 B,Persson,Stefan,Stefan Persson,1947-10-04,63.0,Male,Sweden,Sweden,Stockholm,,['Fashion and Retail'],,,False,Increased
+2011,3,20,21.3 B,Walton,Jim,Jim Walton,1948-01-01,63.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2011,3,14,24.0 B,Lisin,Vladimir,Vladimir Lisin,1956-05-07,54.0,Male,Russia,Russia,Moscow,,['Metals & Mining'],,,True,Increased
+2011,3,21,21.2 B,Walton,Alice,Alice Walton,1949-10-07,61.0,Female,United States,United States,Fort Worth,Billionaire,['Billionaire'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2011,3,15,23.5 B,Bettencourt,Liliane,Liliane Bettencourt,1922-10-21,88.0,Female,France,France,Paris,,['Fashion and Retail'],,,False,Increased

@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2002,3,1,52.8 B,Gates,William,Bill Gates,1955-10-28,46.0,Male,United States,United States,Medina,,['Technology'],,,False,Decreased
+2002,3,2,35.0 B,,,Warren Buffett,,71.0,,United States,United States,Omaha,,['Investments'],,,,
+2002,3,4,25.2 B,Allen,Paul,Paul Allen,1953-01-21,49.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,Decreased
+2002,3,5,23.5 B,,,Lawrence Ellison,,57.0,,United States,United States,Atherton,,['Software'],,,,
+2002,3,6,20.8 B,,,Jim Walton,,54.0,,United States,United States,Bentonville,,['Retail'],,,,
+2002,3,8,20.5 B,,,Alice Walton,,53.0,,United States,United States,Fort Worth,,['Retail'],,,,
+2002,3,8,20.5 B,,,S. Robson Walton,,58.0,,United States,United States,Bentonville,,['Retail'],,,,
+2002,3,11,20.0 B,,,Prince Alwaleed Bin Talal Alsaud,,45.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2002,3,12,18.4 B,,,Johanna Quandt,,74.0,,Germany,Germany,Bad Homburg,,['Manufacturing'],,,,
+2002,3,13,14.9 B,,,Liliane Bettencourt,,79.0,,France,France,Paris,,['Manufacturing'],,,,
+2002,3,15,14.8 B,Ballmer,Steven,Steve Ballmer,1956-03-24,45.0,Male,United States,United States,Hunts Point,,['Technology'],,,False,Decreased
+2002,3,16,13.4 B,,,Ingvar Kamprad & family,,75.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2002,3,17,11.5 B,,,Carlos Slim Helu & family,,62.0,,Mexico,Mexico,Mexico City,,,,,,
+2002,3,18,11.1 B,,,Michael Dell,,37.0,,United States,United States,Austin,,,,,,
+2002,3,19,10.7 B,,,Birgit Rausing & family,,49.0,,Sweden,United Kingdom,Suffolk,,['Manufacturing'],,,,
+2002,3,21,10.1 B,Chambers,Anne Cox,Anne Cox Chambers,1919-12-01,82.0,Female,United States,United States,Atlanta,,['Media'],,,False,Decreased
+2002,3,23,10.0 B,,,Ka-shing Li,,73.0,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2002,3,24,9.2 B,,,Kwok family,,0.0,,Hong Kong,Hong Kong,Hong Kong,,['Real Estate'],,,,
+2002,3,25,9.1 B,,,Amancio Ortega,,66.0,,Spain,Spain,La Coruna,,['Apparel'],,,,
+2002,3,26,9.0 B,,,Forrest Mars,,70.0,,United States,United States,McLean,,['Food'],,,,

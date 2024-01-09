@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2016,3,1,75.0 B,Gates,Bill,Bill Gates,1955-10-28,60.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Decreased
+2016,3,2,67.0 B,Ortega,Amancio,Amancio Ortega,1936-03-28,79.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2016,3,3,60.8 B,Buffett,Warren,Warren Buffett,1930-08-30,85.0,Male,United States,United States,Omaha,Finance and Investments,['Finance and Investments'],Berkshire Hathaway,CEO,True,Decreased
+2016,3,4,50.0 B,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,76.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],Am&#233;rica M&#243;vil,Honorary Chairman,True,Decreased
+2016,3,5,45.2 B,Bezos,Jeff,Jeff Bezos,1964-01-12,52.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon.com,Entrepreneur,True,Increased
+2016,3,6,44.6 B,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,31.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Increased
+2016,3,7,43.6 B,Ellison,Larry,Larry Ellison,1944-08-17,71.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CEO and Founder,True,Decreased
+2016,3,8,40.0 B,Bloomberg,Michael,Michael Bloomberg,1942-02-14,74.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg,CEO,True,Increased
+2016,3,9,39.6 B,Koch,Charles,Charles Koch,1935-11-01,80.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Decreased
+2016,3,9,39.6 B,Koch,David,David Koch,1940-05-03,75.0,Male,United States,United States,New York,Diversified,['Diversified'],Koch Industries,Executive Vice President,False,Decreased
+2016,3,11,36.1 B,Bettencourt,Liliane,Liliane Bettencourt & family,1922-10-21,93.0,Female,France,,,Fashion & Retail,['Fashion & Retail'],,,False,Decreased
+2016,3,12,35.2 B,Page,Larry,Larry Page,1973-03-26,42.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Google,Entrepreneur,True,Increased
+2016,3,13,34.4 B,Brin,Sergey,Sergey Brin,1973-08-21,42.0,Male,United States,United States,Los Altos,Technology,['Technology'],Google,"Cofounder, Director Of Special Projects",True,Increased
+2016,3,14,34.0 B,Arnault,Bernard,Bernard Arnault & family,1949-03-05,66.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Decreased
+2016,3,15,33.6 B,Walton,Jim,Jim Walton,1948-06-07,67.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Decreased
+2016,3,16,32.3 B,Walton,Alice,Alice Walton,1949-10-07,66.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Decreased
+2016,3,17,31.9 B,Walton,S. Robson,S. Robson Walton,1944-10-27,71.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Wal-Mart Stores,Chairman,False,Decreased
+2016,3,18,28.7 B,Wang,Jianlin,Wang Jianlin,1954-10-01,61.0,Male,China,China,Beijing,Real Estate,['Real Estate'],Dalian Wanda Group,Chairman,True,Increased
+2016,3,19,27.8 B,Lemann,Jorge Paulo,Jorge Paulo Lemann,1939-08-26,76.0,Male,Brazil,Switzerland,zurich,Food and Beverage,['Food and Beverage'],,"Investor, Philanthropist",True,Increased
+2016,3,20,27.1 B,Li,Ka-shing,Li Ka-shing,1928-06-13,87.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],CK Hutchison Holdings,Chairman,True,Decreased

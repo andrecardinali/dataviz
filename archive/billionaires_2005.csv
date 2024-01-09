@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2005,3,1,46.5 B,Gates,William,Bill Gates,1955-10-28,49.0,Male,United States,United States,Medina,,['Technology'],,,False,Decreased
+2005,3,2,44.0 B,,,Warren Buffett,,74.0,,United States,United States,Omaha,,['Investments'],,,,
+2005,3,3,25.0 B,,,Lakshmi Mittal,,54.0,,India,United Kingdom,London,,['Manufacturing'],,,,
+2005,3,4,23.8 B,,,Carlos Slim Helu & family,,65.0,,Mexico,Mexico,Mexico City,,,,,,
+2005,3,5,23.7 B,,,Prince Alwaleed Bin Talal Alsaud,,48.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2005,3,6,23.0 B,,,Ingvar Kamprad & family,,78.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2005,3,7,21.0 B,Allen,Paul,Paul Allen,1953-01-21,52.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,Remained Even
+2005,3,8,18.5 B,,,Karl Albrecht,,85.0,,Germany,Germany,M?lheim an der Ruhr,,['Retail'],,,,
+2005,3,9,18.4 B,,,Lawrence Ellison,,60.0,,United States,United States,Silicon Valley,,['Software'],,,,
+2005,3,10,18.3 B,,,S. Robson Walton,,61.0,,United States,United States,Bentonville,,['Retail'],,,,
+2005,3,11,18.2 B,,,Jim Walton,,57.0,,United States,United States,Bentonville,,['Retail'],,,,
+2005,3,13,18.0 B,,,Alice Walton,,56.0,,United States,United States,Fort Worth,,['Retail'],,,,
+2005,3,16,17.2 B,,,Liliane Bettencourt,,82.0,,France,France,Paris,,['Manufacturing'],,,,
+2005,3,17,17.0 B,,,Bernard Arnault,,56.0,,France,France,Paris,,,,,,
+2005,3,18,16.0 B,,,Michael Dell,,40.0,,United States,United States,Austin,,,,,,
+2005,3,19,15.6 B,,,Sheldon Adelson,,71.0,,United States,United States,Las Vegas,,,,,,
+2005,3,21,13.3 B,,,Roman Abramovich,,38.0,,Russia,United Kingdom,London,,['Oil'],,,,
+2005,3,22,13.0 B,,,Ka-shing Li,,76.0,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2005,3,23,12.6 B,,,Amancio Ortega,,69.0,,Spain,Spain,La Coruna,,['Apparel'],,,,
+2005,3,24,12.1 B,Ballmer,Steven,Steve Ballmer,1956-03-24,49.0,Male,United States,United States,Hunts Point,,['Technology'],,,False,Decreased

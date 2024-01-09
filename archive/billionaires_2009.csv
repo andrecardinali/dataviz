@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2009,3,1,40.0 B,Gates,William,Bill Gates,1955-10-28,53.0,Male,United States,United States,Medina,Technology,['Technology                    '],Bill & Melinda Gates Foundation,Co-Chair,False,Decreased
+2009,3,2,37.0 B,Buffett,Warren,Warren Buffett,1930-08-30,78.0,Male,United States,United States,Omaha,Investments,['Investments                   '],Berkshire Hathaway,Chairman,False,Decreased
+2009,3,3,35.0 B,,,Carlos Slim Helu & family,,69.0,,Mexico,Mexico,Mexico City,,['Telecommunications'],,,,
+2009,3,4,22.5 B,Ellison,Lawrence,Larry Ellison,1944-08-17,64.0,Male,United States,United States,Woodside,Technology,['Technology                    '],Oracle,CEO,False,Decreased
+2009,3,5,22.0 B,,,Ingvar Kamprad & family,,83.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2009,3,6,21.5 B,,,Karl Albrecht,,89.0,,Germany,Germany,Mulheim an der Ruhr,,['Retail'],,,,
+2009,3,7,19.5 B,,,Mukesh Ambani,,51.0,,India,India,Mumbai,,['Manufacturing'],,,,
+2009,3,8,19.3 B,,,Lakshmi Mittal,,58.0,,India,United Kingdom,London,,['Steel'],,,,
+2009,3,10,18.3 B,,,Amancio Ortega,,73.0,,Spain,Spain,La Coruna,,['Retail'],,,,
+2009,3,11,17.8 B,Walton,Jim,Jim Walton,1948-01-01,61.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail            '],"Arvest Bank Group, Inc.",Chairman and CEO,False,Decreased
+2009,3,12,17.6 B,Walton,Alice,Alice Walton,1949-10-07,59.0,Female,United States,United States,Fort Worth,Billionaire,['Billionaire'],Crystal Bridges Museum of American Art,Philanthropist,False,Decreased
+2009,3,12,17.6 B,Walton,Christy,Christy Walton & family,1955-01-01,54.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail            '],Children's Scholarship Fund,Co-Chair,False,Decreased
+2009,3,12,17.6 B,Walton,S. Robson,S. Robson Walton,1944-01-01,65.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail            '],Wal-Mart Stores,Chairman,False,Decreased
+2009,3,15,16.5 B,,,Bernard Arnault,,60.0,,France,France,Paris,,['Luxury Goods'],,,,
+2009,3,16,16.2 B,,,Ka-shing Li,,80.0,,Hong Kong,Hong Kong,Hong Kong,,['Diversified'],,,,
+2009,3,17,16.0 B,Bloomberg,Michael,Michael Bloomberg,1942-02-14,67.0,Male,United States,United States,New York,Politics,['Politics'],,,False,Increased
+2009,3,18,14.5 B,,,Stefan Persson,,61.0,,Sweden,Sweden,Stockholm,,['Retail'],,,,
+2009,3,19,14.0 B,Koch,Charles,Charles Koch,1935-11-01,73.0,Male,United States,United States,Wichita,Diversified,['Diversified'],,,False,Decreased
+2009,3,19,14.0 B,Koch,David,David Koch,1940-05-03,68.0,Male,United States,United States,New York,Diversified,['Diversified'],,,False,Decreased
+2009,3,21,13.4 B,,,Liliane Bettencourt,,86.0,,France,France,Paris,,['Consumer Products'],,,,

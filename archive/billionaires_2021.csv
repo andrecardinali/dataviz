@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2021,4,1,177.0 B,Bezos,Jeff,Jeff Bezos,1964-01-12,57.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon,Entrepreneur,True,Increased
+2021,4,2,151.0 B,Musk,Elon,Elon Musk,1971-06-28,49.0,Male,United States,United States,Austin,Automotive,['Automotive'],Tesla,CEO and Chairman,True,Increased
+2021,4,3,150.0 B,Arnault,Bernard,Bernard Arnault & family,1949-03-05,72.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2021,4,4,124.0 B,Gates,Bill,Bill Gates,1955-10-28,65.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2021,4,5,97.0 B,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,36.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Increased
+2021,4,6,96.0 B,Buffett,Warren,Warren Buffett,1930-08-30,90.0,Male,United States,United States,Omaha,Finance & Investments,['Finance & Investments'],Berkshire Hathaway Inc. (Cl A),CEO,True,Increased
+2021,4,7,93.0 B,Ellison,Larry,Larry Ellison,1944-08-17,76.0,Male,United States,United States,Lanai,Technology,['Technology'],Oracle Corp.,CTO and Founder,True,Increased
+2021,4,8,91.5 B,Page,Larry,Larry Page,1973-03-26,48.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Alphabet,Entrepreneur,True,Increased
+2021,4,9,89.0 B,Brin,Sergey,Sergey Brin,1973-08-21,47.0,Male,United States,United States,Los Altos,Technology,['Technology'],Alphabet,Cofounder and board member,True,Increased
+2021,4,10,84.5 B,Ambani,Mukesh,Mukesh Ambani,1957-04-19,63.0,Male,India,India,Mumbai,Diversified,['Diversified'],Reliance Industries Ltd.,Founder and Chairman,False,Increased
+2021,4,11,77.0 B,Ortega,Amancio,Amancio Ortega,1936-03-28,85.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2021,4,12,73.6 B,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,67.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2021,4,13,68.9 B,Zhong,Shanshan,Zhong Shanshan,1954-12-01,66.0,Male,China,China,Hangzhou,Food & Beverage,['Food & Beverage'],,,True,Increased
+2021,4,14,68.7 B,Ballmer,Steve,Steve Ballmer,1956-03-24,65.0,Male,United States,United States,Hunts Point,Technology,['Technology'],Los Angeles Clippers,Owner,True,Increased
+2021,4,15,65.8 B,Ma,Huateng,Ma Huateng,1971-10-29,49.0,Male,China,China,Shenzhen,Technology,['Technology'],Tencent,Chairman and CEO,True,Increased
+2021,4,16,62.8 B,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,81.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],America Movil SAB de CV (ADR),Honorary Chairman,True,Increased
+2021,4,17,61.8 B,Walton,Alice,Alice Walton,1949-10-07,71.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2021,4,18,60.2 B,Walton,Jim,Jim Walton,1948-06-07,72.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2021,4,19,59.5 B,Walton,Rob,Rob Walton,1944-10-27,76.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Walmart Inc.,Director,False,Increased
+2021,4,20,59.0 B,Bloomberg,Michael,Michael Bloomberg,1942-02-14,79.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg L.P.,CEO,True,Increased

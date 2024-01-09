@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2008,3,1,62.0 B,,,Warren Buffett,,77.0,,United States,United States,Omaha,,['Investments'],,,,
+2008,3,2,60.0 B,,,Carlos Slim Helu & family,,68.0,,Mexico,Mexico,Mexico City,,,,,,
+2008,3,3,58.0 B,Gates,William,Bill Gates,1955-10-28,52.0,Male,United States,United States,Medina,,['Technology'],,,False,Increased
+2008,3,4,45.0 B,,,Lakshmi Mittal,,57.0,,India,United Kingdom,London,,['Manufacturing'],,,,
+2008,3,5,43.0 B,,,Mukesh Ambani,,50.0,,India,India,Mumbai,,['Manufacturing'],,,,
+2008,3,6,42.0 B,,,Anil Ambani,,48.0,,India,India,Mumbai,,,,,,
+2008,3,7,31.0 B,,,Ingvar Kamprad & family,,81.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2008,3,8,30.0 B,,,Kushal Pal Singh,,76.0,,India,India,Delhi,,['Real Estate'],,,,
+2008,3,9,28.0 B,,,Oleg Deripaska,,40.0,,Russia,Russia,Moscow,,,,,,
+2008,3,10,27.0 B,,,Karl Albrecht,,88.0,,Germany,Germany,Mulheim an der Ruhr,,['Retail'],,,,
+2008,3,11,26.5 B,,,Ka-shing Li,,79.0,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2008,3,12,26.0 B,Adelson,Sheldon,Sheldon Adelson,1933-08-04,74.0,Male,United States,United States,Las Vegas,Gaming,['Gaming'],Las Vegas Sands,Chairman and CEO,False,Decreased
+2008,3,13,25.5 B,,,Bernard Arnault,,59.0,,France,France,Paris,,,,,,
+2008,3,14,25.0 B,Ellison,Lawrence,Larry Ellison,1944-08-17,63.0,Male,United States,United States,Woodside,Technology,['Technology                    '],Oracle,CEO,False,Increased
+2008,3,15,23.5 B,,,Roman Abramovich,,41.0,,Russia,Russia,Moscow,,,,,,
+2008,3,17,22.9 B,,,Liliane Bettencourt,,85.0,,France,France,Paris,,['Manufacturing'],,,,
+2008,3,18,21.2 B,Mordashov,Alexey,Alexey Mordashov,1965-09-26,42.0,Male,Russia,Russia,Moscow,,['Metals & Mining'],,,False,Increased
+2008,3,19,21.0 B,,,Prince Alwaleed Bin Talal Alsaud,,51.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2008,3,20,20.8 B,,,Mikhail Fridman,,43.0,,Russia,Russia,Moscow,,,,,,
+2008,3,21,20.3 B,,,Vladimir Lisin,,51.0,,Russia,Russia,Moscow,,['Manufacturing'],,,,

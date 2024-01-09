@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2003,3,1,40.7 B,Gates,William,Bill Gates,1955-10-28,47.0,Male,United States,United States,Medina,,['Technology'],,,False,Decreased
+2003,3,2,30.5 B,,,Warren Buffett,,72.0,,United States,United States,Omaha,,['Investments'],,,,
+2003,3,4,20.1 B,Allen,Paul,Paul Allen,1953-01-21,50.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,Decreased
+2003,3,5,17.7 B,,,Prince Alwaleed Bin Talal Alsaud,,46.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2003,3,6,16.6 B,,,Lawrence Ellison,,58.0,,United States,United States,Atherton,,['Software'],,,,
+2003,3,7,16.5 B,,,Alice Walton,,54.0,,United States,United States,Fort Worth,,['Retail'],,,,
+2003,3,7,16.5 B,,,Jim Walton,,55.0,,United States,United States,Bentonville,,['Retail'],,,,
+2003,3,7,16.5 B,,,S. Robson Walton,,59.0,,United States,United States,Bentonville,,['Retail'],,,,
+2003,3,12,14.5 B,,,Liliane Bettencourt,,80.0,,France,France,Paris,,['Manufacturing'],,,,
+2003,3,14,13.0 B,,,Ingvar Kamprad & family,,76.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2003,3,15,12.9 B,,,Birgit Rausing & family,,0.0,,Sweden,Switzerland,,,['Manufacturing'],,,,
+2003,3,16,11.1 B,Ballmer,Steven,Steve Ballmer,1956-03-24,46.0,Male,United States,United States,Hunts Point,,['Technology'],,,False,Decreased
+2003,3,18,10.3 B,Chambers,Anne Cox,Anne Cox Chambers,1919-12-01,83.0,Female,United States,United States,Atlanta,,['Media'],,,False,Increased
+2003,3,18,10.3 B,,,Amancio Ortega,,67.0,,Spain,Spain,La Coruna,,['Apparel'],,,,
+2003,3,21,10.0 B,,,Forrest Mars,,71.0,,United States,United States,McLean,,['Food'],,,,
+2003,3,21,10.0 B,,,Jacqueline Mars,,64.0,,United States,United States,Bedminster,,['Food'],,,,
+2003,3,21,10.0 B,,,John Mars,,66.0,,United States,United States,Arlington,,['Food'],,,,
+2003,3,24,9.8 B,,,Michael Dell,,38.0,,United States,United States,Austin,,,,,,
+2003,3,25,8.2 B,,,Abigail Johnson,,41.0,,United States,United States,Boston,,['Finance'],,,,
+2003,3,26,8.0 B,,,Sumner Redstone,,79.0,,United States,United States,Newton Centre,,['Media'],,,,

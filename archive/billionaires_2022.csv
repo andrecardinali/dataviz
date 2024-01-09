@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2022,4,1,219.0 B,Musk,Elon,Elon Musk,1971-06-28,50.0,Male,United States,United States,Austin,Automotive,['Automotive'],Tesla,CEO,True,Increased
+2022,4,2,171.0 B,Bezos,Jeff,Jeff Bezos,1964-01-12,58.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon,Chairman and Founder,True,Decreased
+2022,4,3,158.0 B,Arnault,Bernard,Bernard Arnault & family,1949-03-05,73.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2022,4,4,129.0 B,Gates,Bill,Bill Gates,1955-10-28,66.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2022,4,5,118.0 B,Buffett,Warren,Warren Buffett,1930-08-30,91.0,Male,United States,United States,Omaha,Finance & Investments,['Finance & Investments'],Berkshire Hathaway Inc. (Cl A),CEO,True,Increased
+2022,4,6,111.0 B,Page,Larry,Larry Page,1973-03-26,49.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Alphabet,Cofounder and board member,True,Increased
+2022,4,7,107.0 B,Brin,Sergey,Sergey Brin,1973-08-21,48.0,Male,United States,United States,Los Altos,Technology,['Technology'],Alphabet,Cofounder and board member,True,Increased
+2022,4,8,106.0 B,Ellison,Larry,Larry Ellison,1944-08-17,77.0,Male,United States,United States,Lanai,Technology,['Technology'],Oracle,CTO and Founder,True,Increased
+2022,4,9,91.4 B,Ballmer,Steve,Steve Ballmer,1956-03-24,66.0,Male,United States,United States,Hunts Point,Technology,['Technology'],Los Angeles Clippers,Owner,True,Increased
+2022,4,10,90.7 B,Ambani,Mukesh,Mukesh Ambani,1957-04-19,64.0,Male,India,India,Mumbai,Diversified,['Diversified'],Reliance Industries Ltd.,Founder and Chairman,False,Increased
+2022,4,11,90.0 B,Adani,Gautam,Gautam Adani,1962-06-24,59.0,Male,India,India,Ahmedabad,Diversified,['Diversified'],,,True,Increased
+2022,4,12,82.0 B,Bloomberg,Michael,Michael Bloomberg,1942-02-14,80.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg L.P.,CEO,True,Increased
+2022,4,13,81.2 B,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,82.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],America Movil SAB de CV (ADR),Honorary Chairman,True,Increased
+2022,4,14,74.8 B,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,68.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2022,4,15,67.3 B,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,37.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Cofounder,True,Decreased
+2022,4,16,66.2 B,Walton,Jim,Jim Walton,1948-06-07,73.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2022,4,17,65.7 B,Zhong,Shanshan,Zhong Shanshan,1954-12-01,67.0,Male,China,China,Hangzhou,Food & Beverage,['Food & Beverage'],,,True,Decreased
+2022,4,18,65.3 B,Walton,Alice,Alice Walton,1949-10-07,72.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2022,4,19,65.0 B,Walton,Rob,Rob Walton,1944-10-27,77.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Walmart,Director,False,Increased
+2022,4,19,65.0 B,Zhao,Changpeng,Changpeng Zhao,1977-09-10,44.0,Male,Canada,United Arab Emirates,Dubai,Finance & Investments,['Finance & Investments'],,,True,Increased

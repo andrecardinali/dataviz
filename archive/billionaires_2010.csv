@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2010,3,1,53.5 B,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,70.0,Male,Mexico,Mexico,Mexico City,,['Telecom'],,,False,Increased
+2010,3,2,53.0 B,Gates,William,Bill Gates,1955-10-28,54.0,Male,United States,United States,Medina,Technology,['Technology                    '],Bill & Melinda Gates Foundation,Co-Chair,False,Increased
+2010,3,3,47.0 B,Buffett,Warren,Warren Buffett,1930-08-30,79.0,Male,United States,United States,Omaha,Investments,['Investments                   '],Berkshire Hathaway,Chairman,False,Increased
+2010,3,4,29.0 B,Ambani,Mukesh,Mukesh Ambani,1957-04-19,52.0,Male,India,India,Mumbai,,['Energy'],,,False,Increased
+2010,3,5,28.7 B,Mittal,Lakshmi,Lakshmi Mittal,1950-06-15,59.0,Male,India,United Kingdom,London,,['Metals & Mining'],,,False,Increased
+2010,3,6,28.0 B,Ellison,Lawrence,Larry Ellison,1944-08-17,65.0,Male,United States,United States,Woodside,Technology,['Technology                    '],Oracle,CEO,False,Increased
+2010,3,7,27.5 B,Arnault,Bernard,Bernard Arnault,1949-03-05,61.0,Male,France,France,Paris,,['Fashion and Retail'],,,False,Increased
+2010,3,8,27.0 B,Batista,Eike,Eike Batista,1956-11-03,53.0,Male,Brazil,Brazil,Rio de Janeiro,,['Energy'],,,False,Increased
+2010,3,9,25.0 B,Ortega,Amancio,Amancio Ortega,1936-03-28,73.0,Male,Spain,Spain,La Coruna,,['Fashion and Retail'],,,False,Increased
+2010,3,10,23.5 B,Albrecht,Karl,Karl Albrecht,1920-02-20,90.0,Male,Germany,Germany,Mulheim an der Ruhr,,['Fashion and Retail'],,,False,Increased
+2010,3,11,23.0 B,Kamprad,Ingvar,Ingvar Kamprad & family,1926-03-30,83.0,Male,Sweden,Switzerland,Lausanne,,['Fashion and Retail'],,,False,Increased
+2010,3,12,22.5 B,Walton,Christy,Christy Walton & family,1955-01-01,55.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail            '],Children's Scholarship Fund,Co-Chair,False,Increased
+2010,3,13,22.4 B,Persson,Stefan,Stefan Persson,1947-10-04,62.0,Male,Sweden,Sweden,Stockholm,,['Fashion and Retail'],,,False,Increased
+2010,3,14,21.0 B,Li,Ka-shing,Li Ka-shing,1928-06-13,81.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],Hutchison Whampoa,Chairman,False,Increased
+2010,3,15,20.7 B,Walton,Jim,Jim Walton,1948-01-01,62.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail            '],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2010,3,16,20.6 B,Walton,Alice,Alice Walton,1949-10-07,60.0,Female,United States,United States,Fort Worth,Billionaire,['Billionaire'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2010,3,17,20.0 B,Bettencourt,Liliane,Liliane Bettencourt,1922-10-21,87.0,Female,France,France,Paris,,['Fashion and Retail'],,,False,Increased
+2010,3,18,19.8 B,Walton,S. Robson,S. Robson Walton,1944-01-01,66.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail            '],Wal-Mart Stores,Chairman,False,Increased
+2010,3,19,19.4 B,Alsaud,Prince Alwaleed Bin Talal,Prince Alwaleed Bin Talal Alsaud,1955-03-07,55.0,Male,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,False,Increased
+2010,3,20,19.0 B,Thomson,David,David Thomson & family,1957-06-12,52.0,Male,Canada,Canada,Toronto,,['Media'],,,False,Increased

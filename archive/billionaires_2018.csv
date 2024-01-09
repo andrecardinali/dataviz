@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2018,3,1,112.0 B,Bezos,Jeff,Jeff Bezos,1964-01-12,54.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon.com,Entrepreneur,True,Increased
+2018,3,2,90.0 B,Gates,Bill,Bill Gates,1955-10-28,62.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2018,3,3,84.0 B,Buffett,Warren,Warren Buffett,1930-08-30,87.0,Male,United States,United States,Omaha,Finance and Investments,['Finance and Investments'],Berkshire Hathaway,CEO,True,Increased
+2018,3,4,72.0 B,Arnault,Bernard,Bernard Arnault & family,1949-03-05,69.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2018,3,5,71.0 B,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,33.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Increased
+2018,3,6,70.0 B,Ortega,Amancio,Amancio Ortega,1936-03-28,81.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Decreased
+2018,3,7,67.1 B,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,78.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],América Móvil,Honorary Chairman,True,Increased
+2018,3,8,60.0 B,Koch,Charles,Charles Koch,1935-11-01,82.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Increased
+2018,3,8,60.0 B,Koch,David,David Koch,1940-05-03,77.0,Male,United States,United States,New York,Diversified,['Diversified'],Koch Industries,Executive Vice President,False,Increased
+2018,3,10,58.5 B,Ellison,Larry,Larry Ellison,1944-08-17,73.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CTO and Founder,True,Increased
+2018,3,11,50.0 B,Bloomberg,Michael,Michael Bloomberg,1942-02-14,76.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg,CEO,True,Increased
+2018,3,12,48.8 B,Page,Larry,Larry Page,1973-03-26,44.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Alphabet,Entrepreneur,True,Increased
+2018,3,13,47.5 B,Brin,Sergey,Sergey Brin,1973-08-21,44.0,Male,United States,United States,Los Altos,Technology,['Technology'],Alphabet,President,True,Increased
+2018,3,14,46.4 B,Walton,Jim,Jim Walton,1948-06-07,69.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2018,3,15,46.2 B,Walton,Rob,Rob Walton,1944-10-27,73.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Wal-Mart Stores,Chairman,False,Increased
+2018,3,16,46.0 B,Walton,Alice,Alice Walton,1949-10-07,68.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2018,3,17,45.3 B,Ma,Huateng,Ma Huateng,1971-10-01,46.0,Male,China,China,Shenzhen,Technology,['Technology'],Tencent Holdings,Chairman and CEO,True,Increased
+2018,3,18,42.2 B,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,64.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,
+2018,3,19,40.1 B,Ambani,Mukesh,Mukesh Ambani,1957-04-19,60.0,Male,India,India,Mumbai,Energy,['Energy'],Reliance Industries,Founder and Chairman,False,Increased
+2018,3,20,39.0 B,Ma,Jack,Jack Ma,1964-09-10,53.0,Male,China,China,Hangzhou,Technology,['Technology'],Alibaba Group,Founder and Executive Chairman,True,Increased

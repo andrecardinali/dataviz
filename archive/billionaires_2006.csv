@@ -1,0 +1,21 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2006,3,1,50.0 B,Gates,William,Bill Gates,1955-10-28,50,Male,United States,United States,Medina,,['Technology'],,,False,Increased
+2006,3,2,42.0 B,,,Warren Buffett,,75,,United States,United States,Omaha,,['Investments'],,,,
+2006,3,3,30.0 B,,,Carlos Slim Helu & family,,66,,Mexico,Mexico,Mexico City,,,,,,
+2006,3,4,28.0 B,,,Ingvar Kamprad & family,,79,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2006,3,5,23.5 B,,,Lakshmi Mittal,,55,,India,United Kingdom,London,,['Manufacturing'],,,,
+2006,3,6,22.0 B,Allen,Paul,Paul Allen,1953-01-21,53,Male,United States,United States,Mercer Island,,['Technology'],,,False,Increased
+2006,3,7,21.5 B,,,Bernard Arnault,,57,,France,France,Paris,,,,,,
+2006,3,8,20.0 B,,,Prince Alwaleed Bin Talal Alsaud,,49,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2006,3,10,18.8 B,,,Ka-shing Li,,77,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2006,3,11,18.2 B,,,Roman Abramovich,,39,,Russia,United Kingdom,London,,['Oil'],,,,
+2006,3,12,17.1 B,,,Michael Dell,,41,,United States,United States,Austin,,,,,,
+2006,3,13,17.0 B,,,Karl Albrecht,,86,,Germany,Germany,M?lheim an der Ruhr,,['Retail'],,,,
+2006,3,14,16.1 B,,,Sheldon Adelson,,72,,United States,United States,Las Vegas,,,,,,
+2006,3,15,16.0 B,,,Liliane Bettencourt,,83,,France,France,Paris,,['Manufacturing'],,,,
+2006,3,15,16.0 B,,,Lawrence Ellison,,61,,United States,United States,Silicon Valley,,['Software'],,,,
+2006,3,17,15.9 B,,,Christy Walton & family,,51,,United States,United States,Jackson,,['Retail'],,,,
+2006,3,17,15.9 B,,,Jim Walton,,58,,United States,United States,Bentonville,,['Retail'],,,,
+2006,3,19,15.8 B,,,S. Robson Walton,,62,,United States,United States,Bentonville,,['Retail'],,,,
+2006,3,20,15.7 B,,,Alice Walton,,56,,United States,United States,Fort Worth,,['Retail'],,,,
+2006,3,23,14.8 B,,,Amancio Ortega,,70,,Spain,Spain,La Coruna,,['Apparel'],,,,
